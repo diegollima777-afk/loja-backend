@@ -1,2 +1,10 @@
-server.js
-package.json
+{
+  "name": "loja-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mercadopago": "^1.5.15",
+    "cors": "^2.8.5"
+  }
+}
